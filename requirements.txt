@@ -41,7 +41,7 @@ numpy==1.13.1
 oauth2==1.9.0.post1
 olefile==0.44
 pandas==0.20.3
-Pillow==4.2.1
+Pillow==6.2.0
 pipreqs==0.4.9
 py==1.4.34
 pycparser==2.18
